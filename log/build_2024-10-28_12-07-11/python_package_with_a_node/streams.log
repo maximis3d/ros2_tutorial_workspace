@@ -1,0 +1,25 @@
+[0.676s] Invoking command in '/home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/src/python_package_with_a_node': PYTHONPATH=/home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/build/python_package_with_a_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/install/python_package_with_a_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/python_package_with_a_node build --build-base /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/build/python_package_with_a_node/build install --record /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/build/python_package_with_a_node/install.log --single-version-externally-managed install_data
+[0.866s] running egg_info
+[0.867s] writing ../../build/python_package_with_a_node/python_package_with_a_node.egg-info/PKG-INFO
+[0.867s] writing dependency_links to ../../build/python_package_with_a_node/python_package_with_a_node.egg-info/dependency_links.txt
+[0.867s] writing entry points to ../../build/python_package_with_a_node/python_package_with_a_node.egg-info/entry_points.txt
+[0.867s] writing requirements to ../../build/python_package_with_a_node/python_package_with_a_node.egg-info/requires.txt
+[0.867s] writing top-level names to ../../build/python_package_with_a_node/python_package_with_a_node.egg-info/top_level.txt
+[0.868s] reading manifest file '../../build/python_package_with_a_node/python_package_with_a_node.egg-info/SOURCES.txt'
+[0.869s] writing manifest file '../../build/python_package_with_a_node/python_package_with_a_node.egg-info/SOURCES.txt'
+[0.869s] running build
+[0.869s] running build_py
+[0.869s] copying python_package_with_a_node/print_forever_node.py -> /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/build/python_package_with_a_node/build/lib/python_package_with_a_node
+[0.870s] running install
+[0.870s] running install_lib
+[0.870s] copying /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/build/python_package_with_a_node/build/lib/python_package_with_a_node/print_forever_node.py -> /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/install/python_package_with_a_node/lib/python3.10/site-packages/python_package_with_a_node
+[0.870s] byte-compiling /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/install/python_package_with_a_node/lib/python3.10/site-packages/python_package_with_a_node/print_forever_node.py to print_forever_node.cpython-310.pyc
+[0.871s] running install_data
+[0.871s] running install_egg_info
+[0.872s] removing '/home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/install/python_package_with_a_node/lib/python3.10/site-packages/python_package_with_a_node-0.0.0-py3.10.egg-info' (and everything under it)
+[0.872s] Copying ../../build/python_package_with_a_node/python_package_with_a_node.egg-info to /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/install/python_package_with_a_node/lib/python3.10/site-packages/python_package_with_a_node-0.0.0-py3.10.egg-info
+[0.873s] running install_scripts
+[0.888s] Installing print_forever_node script to /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/install/python_package_with_a_node/lib/python_package_with_a_node
+[0.888s] Installing sample_python_node script to /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/install/python_package_with_a_node/lib/python_package_with_a_node
+[0.888s] writing list of installed files to '/home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/build/python_package_with_a_node/install.log'
+[0.962s] Invoked command in '/home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/src/python_package_with_a_node' returned '0': PYTHONPATH=/home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/build/python_package_with_a_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/install/python_package_with_a_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/python_package_with_a_node build --build-base /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/build/python_package_with_a_node/build install --record /home/max/University/Robotics and Automation/week2/workshop/ros2_tutorial_workspace/build/python_package_with_a_node/install.log --single-version-externally-managed install_data
